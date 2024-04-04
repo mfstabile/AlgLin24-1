@@ -25,6 +25,7 @@
 # "Não entendi nada"
 
 * ChatGPT
+* [3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra)
 * Google
 * Horário de atendimento -> Terça-feira 8h00 ~ 9h30
 * e-mail
